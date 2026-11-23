@@ -2,7 +2,7 @@
 
 ### CSE undergrad turning ideas into working systems
 
-E-Cell PR member · 🥈 2nd Place — Embedded Systems & Microcontrollers, among 100+ teams
+🥈 2nd Place — Embedded Systems & Microcontrollers, among 100+ teams
 
 ## Skills
 
